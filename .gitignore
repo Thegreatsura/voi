@@ -39,8 +39,9 @@ next-env.d.ts
 # new prisma client
 /prisma/client
 
-# AI 
+# AI
 .cline/
 .roo/
 /docs
 /tasks
+.claude/*.local.*
